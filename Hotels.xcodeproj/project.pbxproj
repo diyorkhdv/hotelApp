@@ -12,7 +12,7 @@
 		BB1901F12B4EC74100B6E3A3 /* SFPRODISPLAYBOLD.OTF in Resources */ = {isa = PBXBuildFile; fileRef = BB1901E82B4EC74100B6E3A3 /* SFPRODISPLAYBOLD.OTF */; };
 		BB1901F52B4EC74100B6E3A3 /* SFPRODISPLAYREGULAR.OTF in Resources */ = {isa = PBXBuildFile; fileRef = BB1901EC2B4EC74100B6E3A3 /* SFPRODISPLAYREGULAR.OTF */; };
 		BB1901F62B4EC74200B6E3A3 /* SFPRODISPLAYMEDIUM.OTF in Resources */ = {isa = PBXBuildFile; fileRef = BB1901ED2B4EC74100B6E3A3 /* SFPRODISPLAYMEDIUM.OTF */; };
-		BB1B5FFC2B52D0C80055BCB0 /* AddTouristTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB1B5FFB2B52D0C80055BCB0 /* AddTouristTVCell.swift */; };
+		BB1B5FFC2B52D0C80055BCB0 /* NewTouristTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB1B5FFB2B52D0C80055BCB0 /* NewTouristTVCell.swift */; };
 		BB1B5FFE2B5318FD0055BCB0 /* MainHotelViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB1B5FFD2B5318FD0055BCB0 /* MainHotelViewModel.swift */; };
 		BB1B60002B5319960055BCB0 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB1B5FFF2B5319960055BCB0 /* NetworkManager.swift */; };
 		BB1B60022B531B5E0055BCB0 /* MainHotelModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB1B60012B531B5E0055BCB0 /* MainHotelModel.swift */; };
@@ -24,6 +24,7 @@
 		BB1B601B2B5588CF0055BCB0 /* launchScreenAnimation.json in Resources */ = {isa = PBXBuildFile; fileRef = BB1B601A2B5588CF0055BCB0 /* launchScreenAnimation.json */; };
 		BB1B601E2B55A7AD0055BCB0 /* AnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB1B601D2B55A7AD0055BCB0 /* AnimationViewController.swift */; };
 		BB1B60222B55DDFA0055BCB0 /* HotelCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB1B60212B55DDFA0055BCB0 /* HotelCoordinator.swift */; };
+		BB27FFA92B5B359B00A7814C /* AddTouristTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB27FFA82B5B359B00A7814C /* AddTouristTVCell.swift */; };
 		BB4FE2FA2B4E9F3500811151 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4FE2F92B4E9F3500811151 /* AppDelegate.swift */; };
 		BB4FE2FC2B4E9F3500811151 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4FE2FB2B4E9F3500811151 /* SceneDelegate.swift */; };
 		BB4FE2FE2B4E9F3500811151 /* MainHotelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB4FE2FD2B4E9F3500811151 /* MainHotelViewController.swift */; };
@@ -56,7 +57,7 @@
 		BB1901E82B4EC74100B6E3A3 /* SFPRODISPLAYBOLD.OTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFPRODISPLAYBOLD.OTF; sourceTree = "<group>"; };
 		BB1901EC2B4EC74100B6E3A3 /* SFPRODISPLAYREGULAR.OTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFPRODISPLAYREGULAR.OTF; sourceTree = "<group>"; };
 		BB1901ED2B4EC74100B6E3A3 /* SFPRODISPLAYMEDIUM.OTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = SFPRODISPLAYMEDIUM.OTF; sourceTree = "<group>"; };
-		BB1B5FFB2B52D0C80055BCB0 /* AddTouristTVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTouristTVCell.swift; sourceTree = "<group>"; };
+		BB1B5FFB2B52D0C80055BCB0 /* NewTouristTVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTouristTVCell.swift; sourceTree = "<group>"; };
 		BB1B5FFD2B5318FD0055BCB0 /* MainHotelViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainHotelViewModel.swift; sourceTree = "<group>"; };
 		BB1B5FFF2B5319960055BCB0 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		BB1B60012B531B5E0055BCB0 /* MainHotelModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainHotelModel.swift; sourceTree = "<group>"; };
@@ -68,6 +69,7 @@
 		BB1B601A2B5588CF0055BCB0 /* launchScreenAnimation.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = launchScreenAnimation.json; sourceTree = "<group>"; };
 		BB1B601D2B55A7AD0055BCB0 /* AnimationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationViewController.swift; sourceTree = "<group>"; };
 		BB1B60212B55DDFA0055BCB0 /* HotelCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotelCoordinator.swift; sourceTree = "<group>"; };
+		BB27FFA82B5B359B00A7814C /* AddTouristTVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTouristTVCell.swift; sourceTree = "<group>"; };
 		BB4FE2F62B4E9F3500811151 /* Hotels.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hotels.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB4FE2F92B4E9F3500811151 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BB4FE2FB2B4E9F3500811151 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -228,7 +230,8 @@
 				BB79FBFA2B517D6700049103 /* CustomerInfoTVCell.swift */,
 				BB79FBFC2B517D8100049103 /* FirstTouristTVCell.swift */,
 				BB79FBFE2B517DC100049103 /* SecondTouristTVCell.swift */,
-				BB1B5FFB2B52D0C80055BCB0 /* AddTouristTVCell.swift */,
+				BB27FFA82B5B359B00A7814C /* AddTouristTVCell.swift */,
+				BB1B5FFB2B52D0C80055BCB0 /* NewTouristTVCell.swift */,
 				BB79FC002B517DDB00049103 /* TotalCostTVCell.swift */,
 			);
 			path = Views;
@@ -487,7 +490,7 @@
 			files = (
 				BB1B60082B534F250055BCB0 /* PaddedLabel.swift in Sources */,
 				BB79FBF52B5076A000049103 /* PaidViewController.swift in Sources */,
-				BB1B5FFC2B52D0C80055BCB0 /* AddTouristTVCell.swift in Sources */,
+				BB1B5FFC2B52D0C80055BCB0 /* NewTouristTVCell.swift in Sources */,
 				BB1B601E2B55A7AD0055BCB0 /* AnimationViewController.swift in Sources */,
 				BB79FC052B51D81D00049103 /* PaddingTextField.swift in Sources */,
 				BB79FBFF2B517DC100049103 /* SecondTouristTVCell.swift in Sources */,
@@ -496,6 +499,7 @@
 				BB79FBE82B4ECFE100049103 /* Colors.swift in Sources */,
 				BB79FBF12B506F5500049103 /* HotelRoomTVCell.swift in Sources */,
 				BB1B60022B531B5E0055BCB0 /* MainHotelModel.swift in Sources */,
+				BB27FFA92B5B359B00A7814C /* AddTouristTVCell.swift in Sources */,
 				BB4FE2FE2B4E9F3500811151 /* MainHotelViewController.swift in Sources */,
 				BB1B60132B5475B60055BCB0 /* HotelRoomViewModel.swift in Sources */,
 				BB4FE3122B4EA71B00811151 /* AboutHotelTVCell.swift in Sources */,
